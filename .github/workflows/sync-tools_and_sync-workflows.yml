@@ -118,3 +118,5 @@ jobs:
 
           # Push after
           git push origin "${GITHUB_REF}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.CREATE_CATALOGUE_SSHKEY }}
