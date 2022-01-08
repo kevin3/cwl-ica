@@ -125,7 +125,7 @@ Printed as page header, used for filename if not otherwise specified.
 **Optional:** `False`  
 **Output Type:** `Directory`  
 **Docs:**  
-output dircetory with interop multiQC matrices
+output directory with interop multiQC matrices
   
 
   
